@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerry
-- 👀 I’m interested in quantitative finance, systematic trading and mathematical/statistical applications in finance.
+- 👀 I’m interested in computational finance, statistical machine learning, and building systematic trading systems.
 
 <!---
 jlohding/jlohding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
